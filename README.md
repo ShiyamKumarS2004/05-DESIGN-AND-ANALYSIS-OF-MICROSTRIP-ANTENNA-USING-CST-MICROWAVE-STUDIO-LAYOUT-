@@ -1,9 +1,19 @@
+# NAME : SHIYAM KUMAR S
+# REGISTER NUMBER : 212223060260
+
 # 05-DESIGN-AND-ANALYSIS-OF-MICROSTRIP-ANTENNA-USING-CST-MICROWAVE-STUDIO (LAYOUT)
 
 **Aim of the Experiment:** To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms
 Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
+
+<img width="732" height="327" alt="image" src="https://github.com/user-attachments/assets/aa190292-1a9a-4a47-8ae6-ab4c5037ef37" />
+
+<img width="762" height="348" alt="image" src="https://github.com/user-attachments/assets/ce83d4dc-2666-4410-b953-882de12ba450" />
+
+<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/13806dc1-bc4e-4122-a370-472a30182401" />
+
 
 **Mathematical Calculation**
 
@@ -42,6 +52,20 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
 
+**S11 characteristics of the microstrip line terminated with the load**
+<img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/b6d4bbcc-ce26-4fa7-b906-5fffd3a5d905" />
+
+** Design of microstrip line terminated with quarter wave line and the desired load**
 
 
+<img width="642" height="184" alt="image" src="https://github.com/user-attachments/assets/5f6f0b9f-01d3-4e73-b794-55f9f7f482b8" />
 
+
+** S11 characteristics of the microstrip line terminated with quarter wave line and the desired load**
+
+
+<img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/9d81a272-91a5-4630-8a5d-9a764ef3dcb2" />
+
+**Conclusion:**
+
+From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
