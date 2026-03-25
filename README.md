@@ -1,5 +1,5 @@
-# NAME : SHIYAM KUMAR S
-# REGISTER NUMBER : 212223060260
+## NAME : SHIYAM KUMAR S
+## REG NO : 212223060260
 
 # 05-DESIGN-AND-ANALYSIS-OF-MICROSTRIP-ANTENNA-USING-CST-MICROWAVE-STUDIO (LAYOUT)
 
@@ -8,11 +8,9 @@ Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
 
-<img width="732" height="327" alt="image" src="https://github.com/user-attachments/assets/aa190292-1a9a-4a47-8ae6-ab4c5037ef37" />
-
-<img width="762" height="348" alt="image" src="https://github.com/user-attachments/assets/ce83d4dc-2666-4410-b953-882de12ba450" />
-
-<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/13806dc1-bc4e-4122-a370-472a30182401" />
+<img width="732" height="327" alt="image" src="https://github.com/user-attachments/assets/5e1561aa-6f12-447f-ba24-618c96a5f541" />
+<img width="762" height="348" alt="image" src="https://github.com/user-attachments/assets/374dc59a-3a40-4100-85ae-543f948708e6" />
+<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/43c71b72-11cd-4576-b92a-ca15ce87f967" />
 
 
 **Mathematical Calculation**
@@ -52,20 +50,32 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
 
+
+
+
+
 **S11 characteristics of the microstrip line terminated with the load**
-<img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/b6d4bbcc-ce26-4fa7-b906-5fffd3a5d905" />
-
-** Design of microstrip line terminated with quarter wave line and the desired load**
 
 
-<img width="642" height="184" alt="image" src="https://github.com/user-attachments/assets/5f6f0b9f-01d3-4e73-b794-55f9f7f482b8" />
+<img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/f7d30519-56c3-4642-b446-7b93a7a1e33b" />
 
 
-** S11 characteristics of the microstrip line terminated with quarter wave line and the desired load**
+**	Design of microstrip line terminated with quarter wave line and the desired load**
 
 
-<img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/9d81a272-91a5-4630-8a5d-9a764ef3dcb2" />
+<img width="642" height="184" alt="image" src="https://github.com/user-attachments/assets/4fcf36a6-131b-45e0-b569-8f50565faf0e" />
+
+
+**	S11 characteristics of the microstrip line terminated with quarter wave line and the desired load**
+
+
+<img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/863dbdd2-254c-4165-b167-3bdbb331efc7" />
+
 
 **Conclusion:**
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
+
+
+
+
